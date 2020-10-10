@@ -1,0 +1,21 @@
+{
+    "name": "xieshunv/jasmine",
+    "description": "PHP basic tools validation class library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xieshun",
+            "email": "xieshun@lingxi360.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.2"
+    },
+    "autoload":{
+        "psr-4":{
+            "Xieshunv\\Jasmine\\":"src/Xieshunv/Jasmine"
+        }
+    }
+}
