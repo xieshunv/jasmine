@@ -1,6 +1,6 @@
 {
     "name": "xieshunv/jasmine",
-    "description": "get city info by ip address!",
+    "description": "According to the IP address, get the city information",
     "type": "library",
     "license": "MIT",
     "keywords": [
