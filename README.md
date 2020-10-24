@@ -1,4 +1,5 @@
 # 通过IP地址，获取城市信息
+## composer require xieshunv/jasmine
 
     <?php
         use xieshunv\jasmine\Convertip;
