@@ -19,8 +19,8 @@
         "php":">=5.6"
     },
     "autoload":{
-        "psr-4":{
-            "xieshunv\\jasmine\\":"src/"
+        "psr-4": {
+            "xieshunv\\jasmine\\": "src/"
         }
     }
 }
