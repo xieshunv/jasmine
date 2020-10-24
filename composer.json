@@ -1,0 +1,26 @@
+{
+    "name": "xieshunv/jasmine",
+    "description": "get city info by ip address!",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "ip-info",
+        "ip-address",
+        "ip-location"
+    ],
+    "authors": [
+        {
+            "name": "xieshun",
+            "email": "xieshun@lingxi360.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload":{
+        "psr-4":{
+            "xieshunv\\jasmine\\":"src/"
+        }
+    }
+}
